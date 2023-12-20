@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Caviar Dreams';
+    src: url('../font/caviar/CaviarDreams.ttf');
+}
+@font-face {
+    font-family: 'Caviar Dreams bold';
+    src: url('../font/caviar/CaviarDreams_Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Museo Sans';
+    src: url('../font/museo/MuseoSans_500.otf');
+}
+@font-face {
+    font-family: 'Museo Sans bold';
+    src: url('../font/museo/MuseoSans_700.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../font/proxima/proximanova-medium.otf');
+}
+@font-face {
+    font-family: 'Proxima Nova bold';
+    src: url('../font/proxima/proximanova-bold.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../font/myriad/MYRIADPRO-REGULAR.woff')
+}
+
+@font-face {
+    font-family: 'Myriad Pro Bold';
+    src: url('../font/myriad/MYRIADPRO-BOLD.woff');
+    font-weight: bold;
+}
